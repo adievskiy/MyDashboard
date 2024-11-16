@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDashboard</string>
+    <string name="titleToolbarMain">My Dashboard</string>
+    <string name="textButtonTextTV">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textChatTV">Чат здесь</string>
+    <string name="textHomeTV">Домашняя здесь</string>
+    <string name="textLogoutTV">Вы вышли</string>
+    <string name="textProfileTV">Профиль здесь</string>
+    <string name="textSettingsTV">Настройки здесь</string>
+    <string name="textWidgetsTV">Виджеты здесь</string>
+</resources>
